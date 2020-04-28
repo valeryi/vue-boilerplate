@@ -1,0 +1,11 @@
+{
+	allUsers {
+		_id
+		firstName
+		lastName
+		email
+		role
+		confirmed
+		createdAt
+	}
+}
